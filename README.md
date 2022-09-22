@@ -7,8 +7,8 @@
 In it's own terminal / command line, run: 
 
 ```
-git clone https://github.com/M-Marcel/NextJS-NFT-Marketplace-with-TheGraph
-cd NextJS-NFT-Marketplace-with-TheGraph
+git clone https://github.com/M-Marcel/Nextjs-NFT-Marketplace-TheGraph
+cd Nextjs-NFT-Marketplace-TheGraph
 yarn
 ```
 
